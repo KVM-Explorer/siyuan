@@ -59,11 +59,11 @@ require (
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
 	github.com/sashabaranov/go-openai v1.40.3
 	github.com/shirou/gopsutil/v4 v4.25.6
-	github.com/siyuan-note/dejavu v0.0.0-20250710031920-32a823c147ce
+	github.com/siyuan-note/dejavu v0.0.0-20241218090338-be682e478d2e
 	github.com/siyuan-note/encryption v0.0.0-20250326023622-24a67e6956ec
 	github.com/siyuan-note/eventbus v0.0.0-20240627125516-396fdb0f0f97
 	github.com/siyuan-note/filelock v0.0.0-20250227145141-7d111cdf3c57
-	github.com/siyuan-note/httpclient v0.0.0-20250710031805-2bc45833ca6b
+	github.com/siyuan-note/httpclient v0.0.0-20241218090012-d3bf82b2e5be
 	github.com/siyuan-note/logging v0.0.0-20250425042449-b96c40249b54
 	github.com/siyuan-note/riff v0.0.0-20250424035337-0a1e91809f6d
 	github.com/spf13/cast v1.9.2
